@@ -1,0 +1,33 @@
+PROBABILITY AND STOCHASTICS FOR FINANCE:
+
+Probability: A tool to understand randomness.
+
+Random Experiment: An experiment whose outcome is unknown.
+ex- price of a stock, etc.
+
+Assumption: All possible outcomes of a random experiment are known. These possible outcomes can be finite or infinite.
+
+Sample space: Set of all possible outcomes of a random experiment.
+w = {w1, w2, w3, ............ , }
+ex - in tossing a coin -> w = {H,T}
+
+Cardinality: Total number of distinct outcomes or elements in that sample space. In case of a coin, cardinality is 2 because there are two outcomes. Similarly, cardinality of a sample space of a fair roll of a die is 6.
+
+Event: It is a subset of sample space omega (w).
+let A is a subset of w,
+then, P(A) = Card(A) / Card(w)
+For finite sample space, this can be possible but for infinite sample space, axiomatic formalism is used.
+
+* for finite number of sets, all possible subsets can be considered as events. 
+* for infinte number of sets, all possible subsets cannot be considered as events.
+
+Sigma Algebra-
+It is a set which is a collection of subset of w (which is usually termed as U), if it holds-
+1. empty set (phi) and the whole sample space (w) is a collection of U (phi, w belongs to U).
+2. If A subset is an element of U (A belongs to U) then A complement is also an element of U. ex - if A is an event then its non-occurrence is also an event.
+3. For countably infinite squence of events and if all are elements of U then the union of all infinite sequences belongs to U.
+4. If A, a subset, is a member of sigma algebra U then, A is called an event.
+
+* Every subset in w is not an event if w is not finite.
+
+

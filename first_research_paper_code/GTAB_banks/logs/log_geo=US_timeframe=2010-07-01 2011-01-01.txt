@@ -1,0 +1,311 @@
+
+2022-05-18 03:59:22.743053
+Start AnchorBank init for region US in timeframe 2010-07-01 2011-01-01...
+Loading previously checked keywords from /content/drive/MyDrive/Courses/2021-22 Spring/CS230/CS230/GTAB_banks/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2010-07-01 2011-01-01.pkl.
+484/568 keyword candidates found in cache, 84 still to check.
+Sampling keywords...
+
+Bad keyword '/m/05n4pk1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/02pxh01', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04bdjb', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/03ct2_8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/083tpm', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n9bv7', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n7n62', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n6lws', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/07b2rg', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0bq4bp', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/04f182w', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n2v4t', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05v67qk', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c0ff8', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/0c_lmc1', because The request failed: Google returned a response with code 400.
+
+Bad keyword '/m/05n35c8', because The request failed: Google returned a response with code 400.
+Querying google...
+Removing bad queries...
+Diagnostics done!
+A total of 67 bad keywords removed.
+Saving google results as '/content/drive/MyDrive/Courses/2021-22 Spring/CS230/CS230/GTAB_banks/data/internal/google_results/google_results_geo=US_timeframe=2010-07-01 2011-01-01.pkl'...
+Total queries (groups of 5 keywords): 455
+Finding paths...
+Paths done!
+Err: 3.774758283725532e-15
+Querying pairs...
+Total range: 1.0610439535116287e-05
+Saving anchorbank as '/content/drive/MyDrive/Courses/2021-22 Spring/CS230/CS230/GTAB_banks/output/google_anchorbanks/google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv'...
+AnchorBank init done.
+
+2022-05-23 20:57:35.796101
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'google'
+New query calibrated!
+
+2022-05-23 21:00:35.610152
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'google'
+New query calibrated!
+
+2022-05-24 21:45:32.067220
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'google'
+New query calibrated!
+
+2022-05-24 21:53:28.724605
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'google'
+New query calibrated!
+
+2022-05-24 22:05:00.868462
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'GOOG stock'
+New query calibrated!
+
+2022-05-24 22:05:58.765156
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-24 22:07:18.194000
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'GOOG stock'
+New query calibrated!
+
+2022-05-24 22:14:32.520494
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 10:11:56.352842
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 14:18:58.725504
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 14:22:03.341130
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 14:23:56.902306
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 20:43:49.588983
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 20:52:05.820565
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 21:01:33.795665
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 21:20:31.825000
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-25 21:28:46.527224
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Google stock'
+New query calibrated!
+
+2022-05-26 14:28:51.228519
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 14:29:59.653218
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 14:31:01.088834
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 15:09:08.410817
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 15:10:08.095428
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 15:11:05.708285
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 15:18:09.564306
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 15:19:06.358197
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 15:19:58.419045
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 15:21:01.751909
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'BP stock'
+New query calibrated!
+
+2022-05-26 15:22:00.953069
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'China Petroleum stock'
+New query calibrated!
+
+2022-05-26 15:35:30.063742
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 15:36:32.717320
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 15:37:32.994858
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 15:38:45.774490
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'BP stock'
+New query calibrated!
+
+2022-05-26 15:39:59.521211
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Schlumberger stock'
+New query calibrated!
+
+2022-05-26 15:40:55.403660
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Valero stock'
+New query calibrated!
+
+2022-05-26 15:53:25.589905
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 15:54:28.298064
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 15:55:27.452089
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 15:56:37.491585
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'BP stock'
+New query calibrated!
+
+2022-05-26 15:57:36.407316
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Schlumberger stock'
+New query calibrated!
+
+2022-05-26 15:58:28.397285
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Valero stock'
+New query calibrated!
+
+2022-05-26 20:38:32.999040
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2022-05-26 20:39:38.485340
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2022-05-26 20:40:40.771757
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2022-05-26 20:41:55.682130
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'BP stock'
+New query calibrated!
+
+2022-05-26 20:45:18.991248
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Schlumberger stock'
+New query calibrated!
+
+2022-05-26 20:46:17.053302
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Valero stock'
+New query calibrated!
+
+2023-01-07 14:54:31.549218
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Chevron stock'
+New query calibrated!
+
+2023-01-07 14:56:19.250599
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Shell stock'
+New query calibrated!
+
+2023-01-07 14:57:56.275286
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'PetroChina stock'
+New query calibrated!
+
+2023-01-07 14:59:36.420798
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'BP stock'
+New query calibrated!
+
+2023-01-07 15:01:12.598823
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Schlumberger stock'
+New query calibrated!
+
+2023-01-07 15:02:40.982075
+Using ../GTAB_banks\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2010-07-01 2011-01-01.tsv
+New query 'Valero stock'
+New query calibrated!

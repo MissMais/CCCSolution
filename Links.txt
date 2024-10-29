@@ -1,0 +1,54 @@
+Fundamental Analysis:
+https://medium.com/analytics-vidhya/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8
+
+Alphaspread link:
+https://www.alphaspread.com/dashboard
+
+Fundamental Analysis Book pdf:
+https://zerodha-common.s3.ap-south-1.amazonaws.com/Varsity/Modules/Module%203_Fundamental%20Analysis.pdf
+
+Finbert:
+Code - https://github.com/ProsusAI/finBERT
+Paper - https://arxiv.org/pdf/1908.10063.pdf
+
+Fingpt - https://github.com/AI4Finance-Foundation/FinGPT
+Fingpt Paper - https://arxiv.org/pdf/2306.06031.pdf
+
+Finchat:
+AI chat for finance - https://finchat.io/chats/
+Chatbot for financial analysis - https://finchat.io/
+
+Todo List:
+	1. https://link.medium.com/ILSZajXNwAb
+	2. Python for Fundamental Analysis - https://link.medium.com/Jx7ahfUaKAb
+
+Balance Sheets - Google Annual Reports
+
+QuantPy - https://quantpy.com.au/tutorials/
+
+Heston Model:
+	1. https://www.investopedia.com/terms/p/pdf.asp - PDF
+
+Risk Neural Probabilities:
+https://quantoisseur.com/category/quantitative-finance/ - 
+
+Breeden and Litzenberger:
+https://core.ac.uk/download/pdf/328889133.pdf 
+
+Breeden and Litzenberger (Video):
+https://www.youtube.com/watch?v=O3LuuOnPW8U
+
+Exploring the Black Scholes Model:
+https://medium.com/@rizkyakbar.de/exploring-the-black-scholes-model-from-theory-to-practical-implementation-in-option-valuation-77c632a5937
+
+Finance Database:
+	1) https://github.com/JerBouma/FinanceDatabase
+	2) https://github.com/JerBouma/FinanceToolkit
+
+FMP:  https://site.financialmodelingprep.com/
+
+Fundamental Analysis:
+
+Anomaly Detection:
+Paper - https://arxiv.org/pdf/2308.09324v1.pdf
+Code - https://github.com/logpai/AutoLog
